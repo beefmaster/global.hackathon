@@ -1,12 +1,11 @@
-{
-  "teamName": "karamabit_kings",
-  "members": [1]
+
+  "teamName": "Team Koders",
+  "members": [
     {
       "name": "Cameron Baker",
       "twitter": "@bakesdog",
       "koding": "vacler",
-      "location": "sydney,61"
-    },
-
-    
+      "location": "sydney, AU"
+    }
+  ]
 }
